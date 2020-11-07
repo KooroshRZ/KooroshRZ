@@ -1,4 +1,8 @@
-### Hi there 👋
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kooroshrz" alt="kooroshrz" /> </p>
+
+
+[![KooroshRZ's github stats](https://github-readme-stats.vercel.app/api?username=kooroshrz)](https://github.com/kooroshrz/github-readme-stats)
+
 
 <!--
 **KooroshRZ/KooroshRZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
