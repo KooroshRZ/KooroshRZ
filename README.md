@@ -3,6 +3,7 @@
 
 [![KooroshRZ's github stats](https://github-readme-stats.vercel.app/api?username=kooroshrz)](https://github.com/kooroshrz/github-readme-stats)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KooroshRZ&layout=default&theme=light&hide_title=false)
 
 <!--
 **KooroshRZ/KooroshRZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
