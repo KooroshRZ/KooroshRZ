@@ -1,12 +1,17 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kooroshrz" alt="kooroshrz" /> </p>
 
 
-[![KooroshRZ's github stats](https://github-readme-stats.vercel.app/api?username=kooroshrz)](https://github.com/kooroshrz/github-readme-stats)
+<a href="https://github.com/KooroshRZ">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kooroshrz&line_height=40" alt="Status" />
+</a>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KooroshRZ&layout=default&theme=light&hide_title=false)
+<a href="https://github.com/KooroshRZ">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KooroshRZ&layout=default&theme=light&hide_title=false" />
+</a>
+
 
 <!--
-**KooroshRZ/KooroshRZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+KooroshRZ/KooroshRZ is a ✨ _special_ ✨ repository because its README.md (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -17,5 +22,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡️ Fun fact: ...
 -->
