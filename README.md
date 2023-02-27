@@ -2,7 +2,6 @@
 
 ---
 # About me
-- **🔥❤️ kokoro o moyase ❤️🔥**
 - Penetration Tester / Security Researcher
 - Highly interested in Cryptography, Mathematics and Binary Exploitation
 - Love struggling with Operating Systems and Machines
