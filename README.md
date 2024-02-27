@@ -2,8 +2,8 @@
 
 ---
 # About me
-- Penetration Tester / CTF Player
-- Highly interested in Cryptography, Mathematics and Binary Exploitation
+- CTF Player / Cyber Security enthusiastic
+- Highly interested in Cryptography and Mathematics
 - Love struggling with Operating Systems and Machines
 - BTW I Use Arch!
 ---
