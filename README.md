@@ -2,7 +2,7 @@
 
 ---
 # About me
-- CTF Player / Cyber Security enthusiastic
+- CTF Player / Cryptography enthusiastic
 - Highly interested in Cryptography and Mathematics
 - Love struggling with Operating Systems and Machines
 - BTW I Use Arch!
