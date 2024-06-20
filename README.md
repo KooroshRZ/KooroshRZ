@@ -2,10 +2,15 @@
 
 ---
 # About me
-- CTF Player / Cyber Security enthusiast
-- Highly interested in Cryptography and Mathematics
-- Love struggling with Operating Systems and Machines
-- BTW I Use Arch!
+
+- 🌱 My name is Kourosh
+- 📖 I'm currently self-studying cryptography and related mathematics.
+- 🏆 I'm a CTF player at [Pr1m3d](https://github.com/Pr1m3dCTF) Team (I usually solve crypto/web/misc/ppc challenges)
+- 📃 I'm looking for opportunities to collaborate in cryptography-related research (paper, blog post)
+- 🥷 I also like to create content related to cybersecurity (CTF challenges and [writeups](https://pr1m3dctf.github.io/writeups/))
+- 💻 BTW I Use Arch Linux!
+- 💬 Ask me about why Demon Slayer is the best anime!
+- 📫 How to reach me: Pr1m3d_0x17@proton.me
 ---
 
 <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white">
@@ -16,6 +21,7 @@
 
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"><img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
 
+<!--
 ---
  # Statistics
  
@@ -29,7 +35,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KooroshRZ&layout=default&theme=gruvbox&hide_title=false" />
 </a>
 
-<!--
+
 KooroshRZ/KooroshRZ is a ✨ _special_ ✨ repository because its README.md (this file) appears on your GitHub profile.
 
 - 🌱 I’m currently Red Teaming / Cryptography / Binary Exploitation
