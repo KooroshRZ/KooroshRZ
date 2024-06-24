@@ -13,7 +13,7 @@
 - 📫 How to reach me: Pr1m3d_0x17@proton.me
 ---
 
-<img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white"><a target="_blank" href="https://cryptohack.org/user/KRyptonZ/"><img align="right" src="./cryptohack.png"></a>
+<img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white"><a href="https://cryptohack.org/user/KRyptonZ/" target="_blank"><img align="right" src="./cryptohack.png"></a>
 
 <a href="https://app.hackthebox.com/profile/372989" target="_blank"><img src="https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=Hack%20The%20Box&logoColor=9FEF00"></a>
 
