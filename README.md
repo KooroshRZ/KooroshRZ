@@ -6,7 +6,7 @@
 - 🌱 My name is Kourosh<a href="https://app.hackthebox.com/profile/372989"><img align="right" src="https://www.hackthebox.com/badge/image/372989"></a>
 - 📖 I'm enthusiastic about Cryptography, mathematics, and AI in cybersecurity.
 - 🏆 I'm a CTF player at [Pr1m3d](https://github.com/Pr1m3dCTF) Team (I usually solve crypto/web/misc/ppc challenges)
-- 👯 I'm looking for opportunities to collaborate in cryptography-related research (paper, blog post)
+- 👯 I'm looking for opportunities to collaborate in cryptography and autonomous penetration testing research (paper, blog post)
 - 🥷 I also like to create content related to cybersecurity (CTF challenges and [writeups](https://pr1m3dctf.github.io/writeups/))
 - 💻 BTW I Use Arch Linux!
 - 💬 Ask me about why Demon Slayer is the best anime!
