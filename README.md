@@ -10,7 +10,7 @@
 - 🥷 I also like to create content related to cybersecurity (CTF challenges and [writeups](https://pr1m3dctf.github.io/writeups/))
 - 💻 BTW I Use Arch Linux!
 - 💬 Ask me about why Demon Slayer is the best anime!
-- 📫 How to reach me: Pr1m3d_0x17@proton.me
+- 📫 How to reach me: koorosh.rajabzadeh@gmail.com
 ---
 
 <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white"><a href="https://cryptohack.org/user/KRyptonZ/" target="_blank"><img align="right" src="./cryptohack.png"></a>
