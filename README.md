@@ -4,7 +4,7 @@ Software engineering · Software security & code review
 
 I build and examine software with a focus on security, code quality, and practical tooling. My experience includes application and infrastructure security work, code audit, and projects in C++, Python, and web security.
 
-[View my CV website](https://kooroshrz.github.io/) · [Email me](mailto:koorosh.rajabzadeh@gmail.com)
+[View my CV website](https://kooroshrz.github.io/KooroshRZ/) · [Email me](mailto:koorosh.rajabzadeh@gmail.com)
 
 ## Selected projects
 
