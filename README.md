@@ -4,7 +4,7 @@ Application Security Engineer · Secure software engineering
 
 I build and examine software with a focus on application security, code quality, and practical tooling. I have 9 years of software security experience and hands-on development experience across web, mobile, and console applications.
 
-[View my CV website](https://kooroshrz.github.io/KooroshRZ/) · [Email me](mailto:koorosh.rajabzadeh@gmail.com)
+[View my resume website](https://kooroshrz.github.io/KooroshRZ/) · [Email me](mailto:koorosh.rajabzadeh@gmail.com)
 
 ## Selected projects
 
