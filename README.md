@@ -2,13 +2,13 @@
 
 Application Security Engineer · Secure software engineering
 
-I build and examine software with a focus on application security, code quality, and practical tooling. I have 9 years of software security experience and hands-on development experience across web, mobile, and console applications.
+I work across software development and security, with 9 years of experience focused on secure development, code review, and application security. My work includes web, mobile, and console applications, source code analysis, and AI-assisted development and testing.
 
 [View my resume website](https://kooroshrz.github.io/KooroshRZ/) · [Email me](mailto:koorosh.rajabzadeh@gmail.com)
 
 ## Selected projects
 
-- [Evader](https://github.com/KooroshRZ/Evader) — a C++ Windows PE packer developed for my B.Sc. thesis.
+- [Cafekesh](https://www.cafekesh.com/) — a platform for managing café customers.
 - [Windows DLL Injector](https://github.com/KooroshRZ/Windows-DLL-Injector) — C++ DLL injection techniques for x86 and x64 Windows processes.
 - [Escalatable](https://github.com/KooroshRZ/escalatable) — a Linux privilege escalation practice environment.
 
