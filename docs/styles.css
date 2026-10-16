@@ -109,22 +109,23 @@ footer div { display: flex; gap: 22px; flex-wrap: wrap; }
 footer a:hover { color: var(--accent); }
 
 @media screen and (min-width: 701px) {
-  .site-header nav a, .header-contact { font-size: .82rem; }
-  .social-links a { font-size: .76rem; }
-  .eyebrow, .section-kicker, .aside-marker { font-size: .78rem; }
-  .button { font-size: .82rem; }
-  .hero-aside dt { font-size: .76rem; }
-  .hero-aside dd { font-size: .98rem; }
-  .section-heading > p:last-child { font-size: 1.02rem; }
-  .item-meta { font-size: .81rem; }
-  .item-body h3, .project-card h3 { font-size: 1.34rem; }
-  .item-org { font-size: .9rem; }
+  .site-header nav a, .header-contact { font-size: .9rem; }
+  .social-links a { font-size: .82rem; }
+  .eyebrow, .section-kicker, .aside-marker { font-size: .84rem; }
+  .hero-intro { font-size: clamp(1.12rem, 1.45vw, 1.25rem); }
+  .button { font-size: .88rem; }
+  .hero-aside dt { font-size: .82rem; }
+  .hero-aside dd { font-size: 1.05rem; }
+  .section-heading > p:last-child { font-size: 1.1rem; }
+  .item-meta { font-size: .86rem; }
+  .item-body h3, .project-card h3 { font-size: 1.42rem; }
+  .item-org { font-size: .96rem; }
   .item-body > p:last-child, .project-card p, .skills-grid p,
-  .education-content p, .teaching li, .credentials li { font-size: 1rem; }
-  .project-index, .project-tag, .education-date { font-size: .77rem; }
-  .skills-grid h3 { font-size: 1.17rem; }
-  .education-content h3 { font-size: 1.22rem; }
-  footer { font-size: .78rem; }
+  .education-content p, .teaching li, .credentials li { font-size: 1.08rem; }
+  .project-index, .project-tag, .education-date { font-size: .83rem; }
+  .skills-grid h3 { font-size: 1.24rem; }
+  .education-content h3 { font-size: 1.3rem; }
+  footer { font-size: .84rem; }
 }
 
 @media (max-width: 1220px) {
