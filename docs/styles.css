@@ -108,6 +108,25 @@ footer { display: flex; justify-content: space-between; align-items: center; gap
 footer div { display: flex; gap: 22px; flex-wrap: wrap; }
 footer a:hover { color: var(--accent); }
 
+@media screen and (min-width: 701px) {
+  .site-header nav a, .header-contact { font-size: .82rem; }
+  .social-links a { font-size: .76rem; }
+  .eyebrow, .section-kicker, .aside-marker { font-size: .78rem; }
+  .button { font-size: .82rem; }
+  .hero-aside dt { font-size: .76rem; }
+  .hero-aside dd { font-size: .98rem; }
+  .section-heading > p:last-child { font-size: 1.02rem; }
+  .item-meta { font-size: .81rem; }
+  .item-body h3, .project-card h3 { font-size: 1.34rem; }
+  .item-org { font-size: .9rem; }
+  .item-body > p:last-child, .project-card p, .skills-grid p,
+  .education-content p, .teaching li, .credentials li { font-size: 1rem; }
+  .project-index, .project-tag, .education-date { font-size: .77rem; }
+  .skills-grid h3 { font-size: 1.17rem; }
+  .education-content h3 { font-size: 1.22rem; }
+  footer { font-size: .78rem; }
+}
+
 @media (max-width: 1220px) {
   .social-label { display: none; }
   .social-links a { width: 32px; padding: 0; }
